@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.header {
+    background-color:lightgray;
+    display: flex;
+    padding: 1em;
+}
+
+.logo {
+    width: 5em;
+    height: 5em;
+}
+
+.navigation {
+    padding: 1em;
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    font-size: 1.5em;
+}
+
+.navlink {
+    color: gray;
+    text-decoration: none;
+    margin-left: 1em;
+}
+
+.navlink:hover {
+    color: red;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.aboutme {
+    padding: 1em;
+    background-color: rgb(235, 235, 235);
+}
+
+.welcome {
+    margin-bottom: 1em;
+}
+
+.content {
+    display: flex;
+}
+
+.photo {
+    width: 20em;
+}
+
+.aboutmetext {
+    margin-left: 2em;
+}
+
+.footer {
+    padding: 1em;
+    background-color: rgb(255, 43, 43);
+    color: white;
+}
+
+.ilearnt {
+    text-align: center;
+}
+
+.ultimateLorem {
+    text-align: center;
+}
+
+.ultimateDesign {
+    text-align: center;
+}
+
+.ultimateAssembled {
+    text-align: center;
+}
